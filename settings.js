@@ -100,7 +100,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Kobbykeys",
          PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 
-        AUTO_TYPING: process.env.AUTO_TYPING || "true",
+        AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing 
   
    READ_CMD: process.env.READ_CMD || "false",
